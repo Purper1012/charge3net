@@ -2,7 +2,7 @@
 # Subject to FAR 52.227-11 - Patent Rights - Ownership by the Contractor (May 2014).
 defaults:
   - model: e3_density
-  - data: mp_perturbed
+  - data: mp_data
   - override hydra/launcher: submitit_slurm
   - _self_
 
