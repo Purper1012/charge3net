@@ -1,12 +1,14 @@
 #!/bin/bash
-#SBATCH -N 1
-#SBATCH -n 4
-#SBATCH --gres=gpu:a40:1
-#SBATCH --mem=64G
-#SBATCH --time=24:00:00
-#SBATCH -p interactive-gpu
-#SBATCH -A cbartel
 #SBATCH --job-name=rocksalt_pipeline
+#SBATCH --time=48:00:00
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=64gb
+#SBATCH --gres=gpu:a40:1
+#SBATCH --partition=interactive-gpu
+#SBATCH -A cbartel
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=huan2984@umn.edu
 #SBATCH -o logs/rocksalt_%j.out
 #SBATCH -e logs/rocksalt_%j.err
 
