@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=rocksalt_pipeline
-#SBATCH --time=48:00:00
+#SBATCH --time=23:59:00
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=64gb
