@@ -13,6 +13,7 @@
 #SBATCH -e logs/rocksalt_%j.err
 
 cd ~/projects/charge_density/charge3net
+source ~/.mp_credentials
 conda activate dmc
 
 mkdir -p logs
