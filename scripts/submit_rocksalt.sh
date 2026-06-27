@@ -21,7 +21,6 @@ mkdir -p logs
 PYTHONPATH=. python scripts/download_rocksalt.py \
     --mp_api_key $MP_API_KEY \
     --out_dir ./data/rocksalt_raw \
-    --task_id_file ./data/mpid_to_task_id_map.json \
     --workers 3
 
 # Step 2: convert to charge3net format
