@@ -2,16 +2,19 @@ import sys
 sys.path.append('.')
 
 import argparse
+import json
 from pathlib import Path
 from mp_api.client import MPRester
 from emmet.core.summary import HasProps
-from download.download_materials_project import _read_in_write_out, write_filelist
+from download.download_materials_project import _read_in_write_out_task, write_filelist
 from multiprocessing import pool as mp_pool
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--mp_api_key", required=True)
 parser.add_argument("--out_dir", default="./data/rocksalt_raw")
+parser.add_argument("--task_id_file", default="./data/mpid_to_task_id_map.json")
 parser.add_argument("--workers", type=int, default=1)
+parser.add_argument("--limit", type=int, default=0)
 
 
 def get_rocksalt_mpids(api_key):
@@ -21,7 +24,7 @@ def get_rocksalt_mpids(api_key):
             spacegroup_number=225,
             fields=["material_id"]
         )
-    return [doc.material_id for doc in docs]
+    return {doc.material_id for doc in docs}
 
 
 def main():
@@ -30,25 +33,34 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print("Querying MP for rocksalt materials with charge density...")
-    mpids = get_rocksalt_mpids(args.mp_api_key)
-    print(f"Found {len(mpids)} materials")
+    rocksalt_mpids = get_rocksalt_mpids(args.mp_api_key)
+    print(f"Found {len(rocksalt_mpids)} rocksalt materials")
 
-    write_filelist(mpids, out_dir / "filelist.txt")
+    with open(args.task_id_file) as f:
+        task_id_map = json.load(f)
+
+    # only keep rocksalt materials that have a valid task_id
+    pairs = [(mpid, task_id_map[mpid]) for mpid in rocksalt_mpids if mpid in task_id_map]
+    print(f"{len(pairs)} have downloadable task IDs")
+
+    if args.limit > 0:
+        pairs = pairs[:args.limit]
+        print(f"Limiting to {args.limit} materials")
+
+    write_filelist([mpid for mpid, _ in pairs], out_dir / "filelist.txt")
 
     print("Downloading CHGCARs...")
     if args.workers > 1:
         mp_pool.Pool(args.workers).starmap(
-            _read_in_write_out,
-            [(args.mp_api_key, mpid, out_dir) for mpid in mpids]
+            _read_in_write_out_task,
+            [(args.mp_api_key, mpid, task_id, out_dir) for mpid, task_id in pairs]
         )
     else:
-        for i, mpid in enumerate(mpids):
-            print(f"  {i+1}/{len(mpids)}: {mpid}")
-            _read_in_write_out(args.mp_api_key, mpid, out_dir)
+        for i, (mpid, task_id) in enumerate(pairs):
+            print(f"  {i+1}/{len(pairs)}: {mpid}")
+            _read_in_write_out_task(args.mp_api_key, mpid, task_id, out_dir)
 
-    print(f"\nDone. Next steps:")
-    print(f"  1. PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py --input {out_dir} --output ./data/rocksalt_pkl --workers 4")
-    print(f"  2. python src/test_from_config.py -cd configs/charge3net/ -cn test_chgcar_inputs.yaml input_dir=./data/rocksalt_pkl nnodes=1 nprocs=1 data.train_workers=0 data.val_workers=0")
+    print("Done.")
 
 
 if __name__ == "__main__":
