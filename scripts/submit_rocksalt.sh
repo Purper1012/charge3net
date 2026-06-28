@@ -12,8 +12,6 @@
 #SBATCH -o logs/rocksalt_%j.out
 #SBATCH -e logs/rocksalt_%j.err
 
-echo 'export MP_API_KEY="2Q5uDUi2nhLa9KZFK6FiVIqfw8UFJY2t"' > ~/.mp_credentials
-
 cd ~/projects/charge_density/charge3net
 source ~/.mp_credentials
 conda activate dmc
@@ -24,7 +22,7 @@ mkdir -p logs
 PYTHONPATH=. python scripts/download_rocksalt.py \
     --mp_api_key $MP_API_KEY \
     --out_dir ./data/rocksalt_raw \
-    --workers 3
+    --workers 1
 
 # Step 2: convert to charge3net format
 PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py \
