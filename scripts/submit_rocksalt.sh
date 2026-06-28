@@ -12,6 +12,8 @@
 #SBATCH -o logs/rocksalt_%j.out
 #SBATCH -e logs/rocksalt_%j.err
 
+echo 'export MP_API_KEY="2Q5uDUi2nhLa9KZFK6FiVIqfw8UFJY2t"' > ~/.mp_credentials
+
 cd ~/projects/charge_density/charge3net
 source ~/.mp_credentials
 conda activate dmc
