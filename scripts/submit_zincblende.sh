@@ -12,6 +12,7 @@
 #SBATCH -o logs/zincblende_%j.out
 #SBATCH -e logs/zincblende_%j.err
 
+export MP_API_KEY="2Q5uDUi2nhLa9KZFK6FiVIqfw8UFJY2t"
 cd ~/projects/charge_density/charge3net
 source ~/.mp_credentials
 conda activate dmc
