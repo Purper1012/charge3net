@@ -31,6 +31,7 @@ PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py \
     --input ./data/rocksalt_raw \
     --output ./data/rocksalt_pkl \
     --workers 4
+rm -rf ./data/rocksalt_raw
 
 # Step 3: run charge3net inference
 python src/test_from_config.py \

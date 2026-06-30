@@ -32,6 +32,7 @@ PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py \
     --input ./data/perovskite_raw \
     --output ./data/perovskite_pkl \
     --workers 4
+rm -rf ./data/perovskite_raw
 
 # Step 3: run charge3net inference
 python src/test_from_config.py \
