@@ -12,6 +12,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--mp_api_key", required=True)
 parser.add_argument("--spacegroup", type=int, required=True, help="Space group number (e.g. 225=rocksalt, 221=perovskite, 216=zincblende)")
 parser.add_argument("--label", type=str, required=True, help="Label for output directory (e.g. rocksalt, perovskite, zincblende)")
+parser.add_argument("--out_dir", type=str, default=None, help="Output directory (default: ./data/{label}_raw)")
 parser.add_argument("--task_id_file", default="./data/mpid_to_task_id_map.json")
 parser.add_argument("--workers", type=int, default=1)
 parser.add_argument("--limit", type=int, default=0)
@@ -29,7 +30,7 @@ def get_mpids(api_key, spacegroup):
 
 def main():
     args = parser.parse_args()
-    out_dir = Path(f"./data/{args.label}_raw")
+    out_dir = Path(args.out_dir) if args.out_dir else Path(f"./data/{args.label}_raw")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"Querying MP for spacegroup {args.spacegroup} ({args.label}) materials...")

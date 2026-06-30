@@ -18,27 +18,29 @@ source ~/.mp_credentials
 conda activate dmc
 
 mkdir -p logs
+SCRATCH=$SCRATCH_GLOBAL/$USER
 
 # Step 1: download CHGCARs from MP
 PYTHONPATH=. python scripts/download_by_spacegroup.py \
     --mp_api_key $MP_API_KEY \
     --spacegroup 216 \
     --label zincblende \
+    --out_dir $SCRATCH/zincblende_raw \
     --task_id_file ./data/mpid_to_task_id_map.json \
     --workers 1
 
 # Step 2: convert to charge3net format
 PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py \
-    --input ./data/zincblende_raw \
-    --output ./data/zincblende_pkl \
+    --input $SCRATCH/zincblende_raw \
+    --output $SCRATCH/zincblende_pkl \
     --workers 4
-rm -rf ./data/zincblende_raw
+rm -rf $SCRATCH/zincblende_raw
 
 # Step 3: run charge3net inference
 python src/test_from_config.py \
     -cd configs/charge3net/ \
     -cn test_chgcar_inputs.yaml \
-    input_dir=./data/zincblende_pkl \
+    input_dir=$SCRATCH/zincblende_pkl \
     nnodes=1 nprocs=1 \
     data.train_workers=0 data.val_workers=0 \
     hydra.run.dir=./data/zincblende_results

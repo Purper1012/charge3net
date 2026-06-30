@@ -18,26 +18,27 @@ source ~/.mp_credentials
 conda activate dmc
 
 mkdir -p logs
+SCRATCH=$SCRATCH_GLOBAL/$USER
 
 # Step 1: download CHGCARs from MP
 PYTHONPATH=. python scripts/download_rocksalt.py \
     --mp_api_key $MP_API_KEY \
-    --out_dir ./data/rocksalt_raw \
+    --out_dir $SCRATCH/rocksalt_raw \
     --task_id_file ./data/mpid_to_task_id_map.json \
     --workers 1
 
 # Step 2: convert to charge3net format
 PYTHONPATH=. python scripts/convert_chgcar_dir_to_pkl_dir.py \
-    --input ./data/rocksalt_raw \
-    --output ./data/rocksalt_pkl \
+    --input $SCRATCH/rocksalt_raw \
+    --output $SCRATCH/rocksalt_pkl \
     --workers 4
-rm -rf ./data/rocksalt_raw
+rm -rf $SCRATCH/rocksalt_raw
 
 # Step 3: run charge3net inference
 python src/test_from_config.py \
     -cd configs/charge3net/ \
     -cn test_chgcar_inputs.yaml \
-    input_dir=./data/rocksalt_pkl \
+    input_dir=$SCRATCH/rocksalt_pkl \
     nnodes=1 nprocs=1 \
     data.train_workers=0 data.val_workers=0 \
     hydra.run.dir=./data/rocksalt_results
