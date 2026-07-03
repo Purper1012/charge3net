@@ -1,0 +1,371 @@
+Querying MP for spacegroup 216 (zincblende) materials...
+Found 1611 materials
+1568 have task IDs in map
+Downloading CHGCARs...
+  1/1568: mp-1002209
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1434072.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  2/1568: mp-1104718
+  3/1568: mp-30377
+  4/1568: mp-631560
+  5/1568: mp-1222117
+  6/1568: mp-16327
+  7/1568: mp-620271
+  8/1568: mp-961656
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1416310.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  9/1568: mp-1008631
+  10/1568: mp-5866
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1442294.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  11/1568: mp-510113
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1427413.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  12/1568: mp-1008858
+  13/1568: mp-1214409
+  14/1568: mp-1208463
+  15/1568: mp-20012
+  16/1568: mp-631517
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1430653.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  17/1568: mp-1226498
+  18/1568: mp-1226672
+  19/1568: mp-10624
+  20/1568: mp-999059
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1428988.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  21/1568: mp-631440
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1435711.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  22/1568: mp-30807
+  23/1568: mp-1212922
+  24/1568: mp-961715
+  25/1568: mp-1094336
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1445587.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  26/1568: mp-1206908
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1432935.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  27/1568: mp-1009218
+  28/1568: mp-11621
+  29/1568: mp-631543
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1431247.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  30/1568: mp-1212670
+  31/1568: mp-1008867
+  32/1568: mp-1213425
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1323797.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  33/1568: mp-21418
+  34/1568: mp-1222020
+  35/1568: mp-1215441
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1386037.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  36/1568: mp-1226560
+  37/1568: mp-1094088
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1417593.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  38/1568: mp-1223821
+  39/1568: mp-1219708
+  40/1568: mp-31142
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1412894.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  41/1568: mp-1226406
+  42/1568: mp-23051
+  43/1568: mp-6988
+  44/1568: mp-1009494
+  45/1568: mp-1220051
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1385222.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  46/1568: mp-1210768
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1371770.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  47/1568: mp-1208060
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1378166.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  48/1568: mp-1213726
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1396943.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  49/1568: mp-1226265
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1384686.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  50/1568: mp-1226325
+  51/1568: mp-961653
+  52/1568: mp-1213862
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1774005.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  53/1568: mp-30381
+  54/1568: mp-1215253
+  55/1568: mp-631324
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1431157.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  56/1568: mp-961707
+  57/1568: mp-8373
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1439750.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  58/1568: mp-13099
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1431141.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  59/1568: mp-961674
+  60/1568: mp-1212913
+  61/1568: mp-1077534
+  62/1568: mp-554066
+  63/1568: mp-1228170
+  64/1568: mp-777760
+  65/1568: mp-1008872
+  66/1568: mp-21899
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1434433.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  67/1568: mp-866461
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1394048.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  68/1568: mp-1541
+  69/1568: mp-961713
+  70/1568: mp-39273
+  71/1568: mp-1233139
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1233139.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  72/1568: mp-1213866
+  73/1568: mp-19886
+  74/1568: mp-961675
+  75/1568: mp-570014
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1438734.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  76/1568: mp-999552
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1658541.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  77/1568: mp-1222280
+  78/1568: mp-11480
+  79/1568: mp-22782
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1438998.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  80/1568: mp-672356
+  81/1568: mp-1009753
+  82/1568: mp-1227378
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1392315.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  83/1568: mp-1222602
+  84/1568: mp-1215383
+  85/1568: mp-1062795
+  86/1568: mp-999249
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1431602.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  87/1568: mp-1009751
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1424476.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  88/1568: mp-1222608
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1426058.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  89/1568: mp-10182
+  90/1568: mp-16376
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1437783.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  91/1568: mp-1213984
+  92/1568: mp-1100434
+  93/1568: mp-1208958
+  94/1568: mp-1025113
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1475483.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  95/1568: mp-1009820
+  96/1568: mp-962064
+  97/1568: mp-20160
+  98/1568: mp-1234665
+  99/1568: mp-1221821
+  100/1568: mp-570404
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1405686.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  101/1568: mp-631519
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1433581.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  102/1568: mp-961708
+  103/1568: mp-631364
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1425365.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  104/1568: mp-10756
+  105/1568: mp-31451
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1437700.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  106/1568: mp-961712
+  107/1568: mp-22229
+  108/1568: mp-1009592
+  109/1568: mp-1212924
+  110/1568: mp-1210076
+  111/1568: mp-962062
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1419218.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  112/1568: mp-1191484
+  113/1568: mp-631538
+  114/1568: mp-1216666
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1396522.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  115/1568: mp-1224067
+  116/1568: mp-567480
+  117/1568: mp-2219176
+  118/1568: mp-1211420
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1362103.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  119/1568: mp-33088
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1424163.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  120/1568: mp-2232275
+  121/1568: mp-1103718
+  122/1568: mp-1222611
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1427996.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  123/1568: mp-2218829
+  124/1568: mp-1077341
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1300156.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  125/1568: mp-568552
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1416271.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  126/1568: mp-1229225
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1374687.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  127/1568: mp-1077340
+  128/1568: mp-1212892
+  129/1568: mp-1224769
+  130/1568: mp-1103613
+  131/1568: mp-1227207
+  132/1568: mp-12094
+  133/1568: mp-1212909
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1377725.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  134/1568: mp-1206664
+  135/1568: mp-1213878
+  136/1568: mp-1215333
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1394867.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  137/1568: mp-1212923
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1330360.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  138/1568: mp-567422
+  139/1568: mp-632176
+  140/1568: mp-4964
+  141/1568: mp-1103940
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1442649.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  142/1568: mp-631294
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1415189.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  143/1568: mp-1008903
+  144/1568: mp-1212342
+  145/1568: mp-16313
+  146/1568: mp-1219699
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1400442.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  147/1568: mp-252
+  148/1568: mp-1217735
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1380584.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  149/1568: mp-570015
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1405668.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  150/1568: mp-9437
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1438870.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  151/1568: mp-631462
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1414406.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  152/1568: mp-1221566
+  153/1568: mp-569197
+  154/1568: mp-1226065
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1398415.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  155/1568: mp-1080388
+  156/1568: mp-22015
+  157/1568: mp-1072381
+  158/1568: mp-1077082
+  159/1568: mp-962073
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1412583.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  160/1568: mp-1212949
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1341773.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  161/1568: mp-20453
+  162/1568: mp-1219300
+  163/1568: mp-961671
+  164/1568: mp-1220
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1437767.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  165/1568: mp-2624
+  166/1568: mp-631408
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1504582.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  167/1568: mp-924128
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1413055.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  168/1568: mp-961722
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1475863.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  169/1568: mp-2885
+  170/1568: mp-631368
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1436351.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  171/1568: mp-1207807
+  172/1568: mp-1210030
+  173/1568: mp-1100421
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1416575.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  174/1568: mp-13079
+  175/1568: mp-12603
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1438636.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  176/1568: mp-8222
+  177/1568: mp-1206720
+  178/1568: mp-1009593
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1416098.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  179/1568: mp-1227282
+  180/1568: mp-1215901
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1406095.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  181/1568: mp-1076916
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1771619.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  182/1568: mp-1007770
+  183/1568: mp-631430
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1424915.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  184/1568: mp-1208464
+  185/1568: mp-22914
+  186/1568: mp-1024983
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1405802.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  187/1568: mp-1100391
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1424237.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  188/1568: mp-961685
+  189/1568: mp-1006882
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1432157.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  190/1568: mp-1217190
+  191/1568: mp-998974
+  192/1568: mp-1221622
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1422353.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  193/1568: mp-1228944
+  194/1568: mp-631313
+  195/1568: mp-1077380
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1426359.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  196/1568: mp-1009894
+  197/1568: mp-567347
+  198/1568: mp-1228138
+  199/1568: mp-1207802
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1375765.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  200/1568: mp-961709
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1436938.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  201/1568: mp-1225531
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1409890.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  202/1568: mp-961678
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1420397.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  203/1568: mp-37405
+  204/1568: mp-1206694
+  205/1568: mp-1229288
+  206/1568: mp-1212902
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1379408.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  207/1568: mp-22589
+  208/1568: mp-1100402
+  209/1568: mp-1222653
+  210/1568: mp-2232207
+  211/1568: mp-580364
+  212/1568: mp-1207915
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1342099.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  213/1568: mp-1094391
+  214/1568: mp-961774
+  215/1568: mp-1207185
+  216/1568: mp-631404
+  217/1568: mp-21425
+  218/1568: mp-961724
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1420365.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  219/1568: mp-1227851
+  220/1568: mp-820
+  221/1568: mp-2218282
+  222/1568: mp-1224937
+  223/1568: mp-13435
+  224/1568: mp-1025116
+  225/1568: mp-631523
+  226/1568: mp-631530
+  227/1568: mp-961663
+  228/1568: mp-1018016
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1381974.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  229/1568: mp-1215205
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1395619.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  230/1568: mp-12558
+  231/1568: mp-961658
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1421961.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  232/1568: mp-30457
+  233/1568: mp-1222607
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1435932.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  234/1568: mp-1221602
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1655957.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  235/1568: mp-1100411
+  236/1568: mp-2232147
+  237/1568: mp-1217277
+  238/1568: mp-1221874
+  239/1568: mp-1021660
+  240/1568: mp-30454
+  241/1568: mp-1100427
+  242/1568: mp-1222606
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1427123.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  243/1568: mp-1246794
+  244/1568: mp-2691
+  245/1568: mp-567435
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1412977.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  246/1568: mp-1227842
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1280411.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  247/1568: mp-37906
+  248/1568: mp-1077741
+  249/1568: mp-1220218
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1344412.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  250/1568: mp-1206708
+  251/1568: mp-961710
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1429205.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  252/1568: mp-1002184
+  253/1568: mp-13034
+  254/1568: mp-631495
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1417626.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  255/1568: mp-10194
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1438506.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  256/1568: mp-1072444
+  257/1568: mp-961680
+  258/1568: mp-961673
+  259/1568: mp-1206719
+  260/1568: mp-3477
+  261/1568: mp-1215995
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1433807.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  262/1568: mp-1100425
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1413218.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  263/1568: mp-756794
+  264/1568: mp-724172
+  265/1568: mp-1224500
+  266/1568: mp-11304
+  267/1568: mp-10180
+  268/1568: mp-1227281
+unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1444226.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+  269/1568: mp-1224554

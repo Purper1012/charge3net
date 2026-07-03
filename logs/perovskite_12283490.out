@@ -4621,3 +4621,6 @@ unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1413922.json
   3231/3231: mp-19868
 unable to access bucket: 'materialsproject-parsed' key: 'chgcars/mp-1440178.json.gz' version: None error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
 Done.
+Initializing on rank 0 with environment {'master_port': '29500', 'master_addr': 'localhost', 'world_size': 1, 'group_rank': 0}
+Loading checkpoint ./models/charge3net_mp.pt
+[2026-06-30 18:31:07,600][hydra.experimental.callbacks.LogJobReturnCallback][INFO] - Succeeded with return value: None

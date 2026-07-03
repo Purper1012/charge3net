@@ -1,0 +1,175 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Retrieving SummaryDoc documents:   0%|          | 0/1611 [00:00<?, ?it/s]Retrieving SummaryDoc documents: 100%|██████████| 1611/1611 [00:01<00:00, 1186.33it/s]Retrieving SummaryDoc documents: 100%|██████████| 1611/1611 [00:01<00:00, 1186.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 38836.15it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 37117.73it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41120.63it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 43240.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 45100.04it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41527.76it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 35246.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 42799.02it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 39568.91it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 39568.91it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 35246.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 43690.67it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 34100.03it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 43690.67it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 43240.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41527.76it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 44620.26it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 40329.85it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 44620.26it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 53092.46it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41527.76it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 44620.26it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 39568.91it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 53092.46it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 45590.26it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 33825.03it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 52428.80it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 40721.40it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 46091.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 46091.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 46091.25it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41943.04it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47127.01it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 46603.38it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47127.01it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41120.63it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 45100.04it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48210.39it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 41943.04it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 52428.80it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 44150.57it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 53092.46it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49344.75it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 47662.55it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51781.53it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 51150.05it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 44620.26it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 49932.19it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 50533.78it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 48770.98it/s]
+Retrieving CoreTaskDoc documents:   0%|          | 0/1 [00:00<?, ?it/s]Retrieving CoreTaskDoc documents: 100%|██████████| 1/1 [00:00<00:00, 34952.53it/s]
