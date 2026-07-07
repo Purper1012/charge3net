@@ -14,8 +14,15 @@
 
 # Usage: sbatch --export=CHUNK_DIR=/path/to/chunk_0 scripts/submit_rocksalt_chunk.sh
 
+#for i in 0 1 2 3 4 5; do
+#    sbatch --export=CHUNK_DIR=$SCRATCH_GLOBAL/$USER/rocksalt_chunks/chunk_$i \
+#        scripts/submit_rocksalt_chunk.sh
+#done
+
+export MP_API_KEY="2Q5uDUi2nhLa9KZFK6FiVIqfw8UFJY2t"
+source ~/.bashrc
 cd ~/projects/charge_density/charge3net
-source ~/anaconda3/etc/profile.d/conda.sh
+source ~/.mp_credentials
 conda activate dmc
 
 python src/test_from_config.py \
