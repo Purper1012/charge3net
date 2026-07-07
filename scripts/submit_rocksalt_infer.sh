@@ -12,8 +12,9 @@
 #SBATCH -o logs/rocksalt_infer_%j.out
 #SBATCH -e logs/rocksalt_infer_%j.err
 
+export MP_API_KEY="2Q5uDUi2nhLa9KZFK6FiVIqfw8UFJY2t"
 cd ~/projects/charge_density/charge3net
-source ~/anaconda3/etc/profile.d/conda.sh
+source ~/.mp_credentials
 conda activate dmc
 
 SCRATCH=$SCRATCH_GLOBAL/$USER
